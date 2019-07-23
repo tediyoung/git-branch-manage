@@ -10,4 +10,9 @@ public class GitBranchManageApplication {
         SpringApplication.run(GitBranchManageApplication.class, args);
     }
 
+    private void m1() {
+        System.out.println("砍价功能");
+        System.out.println("砍价真的完成了");
+    }
+
 }
