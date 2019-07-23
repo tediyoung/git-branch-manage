@@ -17,4 +17,8 @@ public class GitBranchManageApplication {
         System.out.println("预发布时，修复了一个 bug");
     }
 
+    public void m2() {
+        System.out.println("销售排行榜完成");
+    }
+
 }
