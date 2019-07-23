@@ -10,4 +10,8 @@ public class GitBranchManageApplication {
         SpringApplication.run(GitBranchManageApplication.class, args);
     }
 
+    public void m2() {
+        System.out.println("销售排行榜完成");
+    }
+
 }
